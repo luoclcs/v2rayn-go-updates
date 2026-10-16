@@ -1,6 +1,6 @@
 {
-  "version": "1.3.6",
-  "url": "https://muse.ai/files/1412211555300984/1131503782666172/nh3fst8w31h3r3y82qk43z5u/v2rayn-go-update-1.3.6.zip",
-  "sha256": "d2c06a0706c6a2c270193db13690976cf876708917f872f0725d9261248fed56",
-  "notes": "根因修复：节点 ID 改为基于内容的稳定哈希（之前每次启动随机生成，导致选中节点记不住）；网速测试改用 Cachefly（Cloudflare 403）。"
+  "version": "1.3.7",
+  "url": "https://muse.ai/files/1412211555300984/28922206354109465/bq8ayrfpmt0vmpxqpatrem3o/v2rayn-go-update-1.3.7.zip",
+  "sha256": "45126879160714907f05fcbb59a230f8c35b3be4729bc1e516f5c86eb30b5902",
+  "notes": "网速测试改 4 并行连接（单连接受限跑不满）；超时放宽到 30 秒；新增 core 看门狗（xray 意外退出自动重启）。"
 }
