@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/luoclcs/v2rayn-go-updates/main/v2rayn-go-update-1.3.1.zip",
-  "sha256": "99419cd10be7b25a683d022ad73016e23403c73e63b497a0aef20b90faca87e9",
-  "notes": "更新器走代理通道（修复国内直连版本源超时）；版本源支持配置多个按顺序尝试。"
+  "version": "1.3.2",
+  "url": "https://muse.ai/files/1412211555300984/1756483402136527/7fm45v2pep6szb9747h15q2u/v2rayn-go-update-1.3.2.zip",
+  "sha256": "91bdb2ebc6c8898d8c1a404ce29dd6dc1d0f083a82e66dbbdcfbcebdbd0b5385",
+  "notes": "隐藏 xray 子进程的黑窗口（CREATE_NO_WINDOW）；更新包改由 Muse 存储托管。"
 }
