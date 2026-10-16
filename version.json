@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "url": "https://raw.githubusercontent.com/luoclcs/v2rayn-go-updates/main/v2rayn-go-update-1.2.0.zip",
+  "sha256": "208c7713f05a612c413ca84a26e1f1d5246a28ec436eccd44e943945eb7423a1",
+  "notes": "应用内自更新：托盘“检查更新”可下载安装新版本，自动重启并恢复代理，用户数据不受影响。"
+}
