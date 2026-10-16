@@ -1,6 +1,6 @@
 {
-  "version": "1.3.4",
-  "url": "https://muse.ai/files/1412211555300984/1878141526482531/aei0dsdkuxmmwml566jgjhjf/v2rayn-go-update-1.3.4.zip",
-  "sha256": "bd82add644b47b8ffd9dae5677816e0182b888ef9e88f3cd03820e10d3c79d55",
-  "notes": "节点管理新增“网速”测试：为每个节点拉起临时 core 下载测速，显示真实带宽 Mbps（原“测速”改名为延迟测试）。"
+  "version": "1.3.5",
+  "url": "https://muse.ai/files/1412211555300984/1172727305077332/9it0qjkzg3n5ad0a5rdr4oim/v2rayn-go-update-1.3.5.zip",
+  "sha256": "31a1bc594f71675d0ddf6b3604f018be2b5fbfe52ca877b0742b7f8feda98eb0",
+  "notes": "修复：网速测试加浏览器 UA（解决 Cloudflare 403）；节点管理布局紧凑化；选中节点持久化加固（去空白+日志）。"
 }
