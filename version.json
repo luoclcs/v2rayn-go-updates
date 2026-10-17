@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
-  "url": "https://muse.ai/files/1412211555300984/2102782873937087/97um69lkn4s3iti905aj6512/v2rayn-go-update-1.4.6.zip",
-  "sha256": "f2c8678b3474a1a87f774ce28f0acf9230a353c00a9d61fd1c526629f0795719",
-  "notes": "修 Veil 桥接不支持普通 HTTP 代理请求（http:// 网址 405）：现支持 GET/POST 等方法的完整 URL 转发。"
+  "version": "1.4.7",
+  "url": "https://muse.ai/files/1412211555300984/2126830401345521/2q7dc1e9jkyqx033a1692odn/v2rayn-go-update-1.4.7.zip",
+  "sha256": "37c38394fd0b28bfd700e647fff47f2cae56a017323aaa4c80298157dea18061",
+  "notes": "修 Veil 节点网速测试：改走 veilbridge 桥接而非 xray。"
 }
