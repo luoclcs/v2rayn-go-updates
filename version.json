@@ -1,6 +1,6 @@
 {
-  "version": "1.4.7",
-  "url": "https://muse.ai/files/1412211555300984/2126830401345521/2q7dc1e9jkyqx033a1692odn/v2rayn-go-update-1.4.7.zip",
-  "sha256": "37c38394fd0b28bfd700e647fff47f2cae56a017323aaa4c80298157dea18061",
-  "notes": "修 Veil 节点网速测试：改走 veilbridge 桥接而非 xray。"
+  "version": "1.4.8",
+  "url": "https://muse.ai/files/1412211555300984/1553352439885988/kuvrh0nvmrab6l6c1bx2e3jq/v2rayn-go-update-1.4.8.zip",
+  "sha256": "1da8c3db994c20b7a8095b0ece7f1dfb8c5e3350e60b2b21bd93a470742047e6",
+  "notes": "Veil：客户端默认关闭帧级debug日志；测速桥接不跑保活；主桥接保活加固（20秒超时+连续2次失败才重连），大流量不再误杀会话。"
 }
