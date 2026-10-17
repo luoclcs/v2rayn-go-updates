@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://muse.ai/files/1412211555300984/935818575990174/ntvs9u33hvw30u8ag2hozofa/v2rayn-go-update-1.4.0.zip",
-  "sha256": "210a55f85c735328abb90f2789d6ccbce225d89d1b817a691ed0acbaa65c37ae",
-  "notes": "新增自研 Veil 协议支持（X25519+ChaCha20-Poly1305，多路复用，应用内置客户端不走 xray）。"
+  "version": "1.4.1",
+  "url": "https://muse.ai/files/1412211555300984/4067685713524951/h2oks2uqz6waikf7c8j4iw1c/v2rayn-go-update-1.4.1.zip",
+  "sha256": "59bce0290d3361acd562a52d36b736fb69c7a943f98a2ba6efe0f0c29d9effb2",
+  "notes": "修 Veil 服务端竞态死锁（OnOpen 回调与 readLoop 启动顺序），修 readLoop 被孤儿流卡死。"
 }
