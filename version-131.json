@@ -1,6 +1,6 @@
 {
-  "version": "1.4.8",
-  "url": "https://muse.ai/files/1412211555300984/1553352439885988/kuvrh0nvmrab6l6c1bx2e3jq/v2rayn-go-update-1.4.8.zip",
-  "sha256": "1da8c3db994c20b7a8095b0ece7f1dfb8c5e3350e60b2b21bd93a470742047e6",
-  "notes": "Veil：客户端默认关闭帧级debug日志；测速桥接不跑保活；主桥接保活加固（20秒超时+连续2次失败才重连），大流量不再误杀会话。"
+  "version": "1.4.9",
+  "url": "https://muse.ai/files/1412211555300984/1140398425085910/x1qz63ziokuewzc7ib7xcief/v2rayn-go-update-1.4.9.zip",
+  "sha256": "0a067ffb53c358a5a8a8dedb8b1e561ad0b81806194d20ce1a63064081cebc06",
+  "notes": "Veil 协议重做：去掉多路复用，改为单流设计（每连接独立隧道，对标 Shadowsocks）。修复 0.0Mbps 测速、大流量卡死、ping 误杀。服务端需同步更新（协议不兼容旧版）。"
 }
