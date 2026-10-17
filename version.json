@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "url": "https://muse.ai/files/1412211555300984/2236692626903165/f9dc5hej81dsb2611q3url9o/v2rayn-go-update-1.4.2.zip",
-  "sha256": "3a723503d6d06c4eb76b9ba81384ac2e753c0914d3df2f8cf3bd893cec3d9ab8",
-  "notes": "Veil 加详细日志：协议层帧收发/握手步骤（VEIL_DEBUG=1），桥接层 SOCKS 建流日志，便于排查。"
+  "version": "1.4.3",
+  "url": "https://muse.ai/files/1412211555300984/1110540998453774/dixtf4zpr7ncqjtbs3y9642k/v2rayn-go-update-1.4.3.zip",
+  "sha256": "1938773370eb33e166a587a814e88e41d2b4e56112869628c7e4ddf15a54cef2",
+  "notes": "Veil 协议层日志接入应用日志（/logs 可见帧收发），HTTP 路径加建流日志。"
 }
