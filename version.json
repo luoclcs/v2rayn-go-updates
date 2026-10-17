@@ -1,6 +1,1 @@
-{
-  "version": "1.4.9",
-  "url": "https://muse.ai/files/1412211555300984/1140398425085910/x1qz63ziokuewzc7ib7xcief/v2rayn-go-update-1.4.9.zip",
-  "sha256": "0a067ffb53c358a5a8a8dedb8b1e561ad0b81806194d20ce1a63064081cebc06",
-  "notes": "Veil 协议重做：去掉多路复用，改为单流设计（每连接独立隧道，对标 Shadowsocks）。修复 0.0Mbps 测速、大流量卡死、ping 误杀。服务端需同步更新（协议不兼容旧版）。"
-}
+eyJub3RlcyI6IlZlaWwgdjIg5Y2P6K6u77yaQ2hhQ2hhMjAg4oaSIEFFUy0yNTYtR0NN77yI56Gs5Lu25Yqg6YCf77yJ77yM5binIDE2S0LihpIzMktC77yM5Y2Vc3lzY2FsbOWGmeWHuu+8jGJ1ZmZlcuWkjeeUqOOAguWQnuWQkOaPkOWNhzMuOXjvvIgzNjbihpIxNDI4IE1CL3PvvInvvIw05bm25Y+R5Y+N6LaFIFhyYXktV1PjgILmnI3liqHnq6/lv4XpobvlkIzmraXmm7TmlrDvvIh2MuS4jeWFvOWuuXYx77yJ44CCIiwic2hhMjU2IjoiNGJhYjQ5MGRlZDNhMmJlNWNiMGU3NzVlZWVlZGU4ODg2N2NiMjE4OWUxMWEwMzM3Y2RmNjhhOWVkMzdiMTM1MiIsInVybCI6Imh0dHBzOi8vbXVzZS5haS9maWxlcy8xNDEyMjExNTU1MzAwOTg0LzM3NTc5NzczMTQzNjEyNTMvOG11ajZrYjlod3BhNjE5eTV6aW91MmJ6L3YycmF5bi1nby11cGRhdGUtMS41LjAuemlwIiwidmVyc2lvbiI6IjEuNS4wIn0=
