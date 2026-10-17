@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
-  "url": "https://muse.ai/files/1412211555300984/1110540998453774/dixtf4zpr7ncqjtbs3y9642k/v2rayn-go-update-1.4.3.zip",
-  "sha256": "1938773370eb33e166a587a814e88e41d2b4e56112869628c7e4ddf15a54cef2",
-  "notes": "Veil 协议层日志接入应用日志（/logs 可见帧收发），HTTP 路径加建流日志。"
+  "version": "1.4.4",
+  "url": "https://muse.ai/files/1412211555300984/1081597678035641/in199158sf8uww383n6pnxr3/v2rayn-go-update-1.4.4.zip",
+  "sha256": "865d7e18f0e07c2373c1fd1e17064656eb4cd41666030a6c46c2e1379188fa3e",
+  "notes": "修 Veil 致命 bug：并发写帧时序号分配与 TCP 写入不在同一把锁内，多流并发导致帧序号错位，对端 AEAD 解密失败断开。"
 }
