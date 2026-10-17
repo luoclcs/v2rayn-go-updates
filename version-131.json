@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "url": "https://muse.ai/files/1412211555300984/4067685713524951/h2oks2uqz6waikf7c8j4iw1c/v2rayn-go-update-1.4.1.zip",
-  "sha256": "59bce0290d3361acd562a52d36b736fb69c7a943f98a2ba6efe0f0c29d9effb2",
-  "notes": "修 Veil 服务端竞态死锁（OnOpen 回调与 readLoop 启动顺序），修 readLoop 被孤儿流卡死。"
+  "version": "1.4.2",
+  "url": "https://muse.ai/files/1412211555300984/2236692626903165/f9dc5hej81dsb2611q3url9o/v2rayn-go-update-1.4.2.zip",
+  "sha256": "3a723503d6d06c4eb76b9ba81384ac2e753c0914d3df2f8cf3bd893cec3d9ab8",
+  "notes": "Veil 加详细日志：协议层帧收发/握手步骤（VEIL_DEBUG=1），桥接层 SOCKS 建流日志，便于排查。"
 }
