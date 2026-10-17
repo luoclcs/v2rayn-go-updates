@@ -1,6 +1,6 @@
 {
-  "version": "1.4.4",
-  "url": "https://muse.ai/files/1412211555300984/1081597678035641/in199158sf8uww383n6pnxr3/v2rayn-go-update-1.4.4.zip",
-  "sha256": "865d7e18f0e07c2373c1fd1e17064656eb4cd41666030a6c46c2e1379188fa3e",
-  "notes": "修 Veil 致命 bug：并发写帧时序号分配与 TCP 写入不在同一把锁内，多流并发导致帧序号错位，对端 AEAD 解密失败断开。"
+  "version": "1.4.5",
+  "url": "https://muse.ai/files/1412211555300984/1180595514697751/uegf2ji0qhvwjs08zjsncs0r/v2rayn-go-update-1.4.5.zip",
+  "sha256": "ba0957bea90ad7124e4a9dcf01e21aff2969dd49c8d66d72344a7890e02ef863",
+  "notes": "更新脚本重启时最小化窗口，不再弹出可见黑窗口。"
 }
