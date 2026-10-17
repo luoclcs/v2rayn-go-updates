@@ -1,6 +1,6 @@
 {
-  "version": "1.3.7",
-  "url": "https://muse.ai/files/1412211555300984/28922206354109465/bq8ayrfpmt0vmpxqpatrem3o/v2rayn-go-update-1.3.7.zip",
-  "sha256": "45126879160714907f05fcbb59a230f8c35b3be4729bc1e516f5c86eb30b5902",
-  "notes": "网速测试改 4 并行连接（单连接受限跑不满）；超时放宽到 30 秒；新增 core 看门狗（xray 意外退出自动重启）。"
+  "version": "1.3.8",
+  "url": "https://muse.ai/files/1412211555300984/1917177332595424/uoxabitccijhqmt80qk311tv/v2rayn-go-update-1.3.8.zip",
+  "sha256": "0aa1e38cee8bdf9792da1e4c892148ab51be843485e66ce9062edf485f58f691",
+  "notes": "网速测试强制关闭 mux（mux 复用单 TCP 反而成为带宽瓶颈），测裸 TCP 真实速度。"
 }
