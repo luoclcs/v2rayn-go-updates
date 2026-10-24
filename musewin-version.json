@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.0.0/MuseWin-update-2.0.0.zip",
-  "sha256": "e3a2c70dff3e2465a8c5e5c8c5d415ee3604af106d737cf82e2dbb595e11dc34",
-  "notes": "应用内更新；项目管理（多目录授权）；本地软件管理；原生另存为对话框；编辑器联动（VS Code）；快捷命令支持可见终端运行。"
+  "version": "2.2.0",
+  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.2.0/MuseWin-update-2.2.0.zip",
+  "sha256": "b0ba292fd8c1212e37f7b39aa5a9400c2a40cdac6fdd4c7189751ed686710c8c",
+  "notes": "退出残留进程修复；AB 端远程服务：Tailscale 直连 / 自研中继双模式，文件与命令远程控制。"
 }
