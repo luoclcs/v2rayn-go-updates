@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.2.0/MuseWin-update-2.2.0.zip",
-  "sha256": "b0ba292fd8c1212e37f7b39aa5a9400c2a40cdac6fdd4c7189751ed686710c8c",
-  "notes": "退出残留进程修复；AB 端远程服务：Tailscale 直连 / 自研中继双模式，文件与命令远程控制。"
+  "version": "2.3.0",
+  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.3.0/MuseWin-update-2.3.0.zip",
+  "sha256": "2933953c14ed43a7d9f90ce770d8c98045cc91ca4900f0e084a36ae100b8e569",
+  "notes": "P1（Codex 对标）第一批：补丁式编辑（按行/锚点改 + diff 预览 + 干跑）、代码搜索、异步命令任务（后台跑、查进度、可取消）、审批分级（读/写/命令三档开关、危险操作 confirm、危险命令兜底）。"
 }
