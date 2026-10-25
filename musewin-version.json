@@ -1,6 +1,6 @@
 {
-  "version": "2.7.1",
-  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.7.1/MuseWin-update-2.7.1.zip",
-  "sha256": "36e5936fc5c21c186e85c87ef250d74afdbad073d74f4b7ff2b96e5dcccce64e",
-  "notes": "switch/close 标题匹配兜底、matched 字段、窗口列表 pid 字段。"
+  "version": "2.7.2",
+  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.7.2/MuseWin-update-2.7.2.zip",
+  "sha256": "1aa19cf86a034b5a38cc3eedeceee5ee0fb4b194e15a8409030f1df3668097db",
+  "notes": "修复窗口枚举 bug（回调提前停下误判为失败致 switch/close 500）。"
 }
