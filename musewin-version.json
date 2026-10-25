@@ -1,6 +1,6 @@
 {
-  "version": "2.7.2",
-  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.7.2/MuseWin-update-2.7.2.zip",
-  "sha256": "1aa19cf86a034b5a38cc3eedeceee5ee0fb4b194e15a8409030f1df3668097db",
-  "notes": "修复窗口枚举 bug（回调提前停下误判为失败致 switch/close 500）。"
+  "version": "2.8.0",
+  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.8.0/MuseWin-update-2.8.0.zip",
+  "sha256": "0e2d6aa6315665d5b6c0e9ede83c8e302a08fde0c7f1a39e66e4313f278e99d3",
+  "notes": "托盘应用菜单（扫描/添加）、托盘与 API 共用校验写入、服务重启不丢运行中添加的应用。"
 }
