@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.4.0/MuseWin-update-2.4.0.zip",
-  "sha256": "edb1a0d89137baa77db8114eb699720dd7025242197d2e96d73b344d735b82de",
-  "notes": "P2：Git 专用接口（status/log/diff/commit/pull/push）、任务管理（列表、元数据、删除已结束记录、断线重连找回）、沙箱收紧（写目录 scope、命令分组 dev/sys、服务暂停开关）。"
+  "version": "2.5.0",
+  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.5.0/MuseWin-update-2.5.0.zip",
+  "sha256": "acbc166e48031fc6a342fba97aa78c3442337a968e015af41f0d742ca29ec4c5",
+  "notes": "P3：应用控制正式接口（apps list/launch）、技能/规则接口（rules 发现与读写）、截图输入（screen capture）、B 端联网搜索（DuckDuckGo）。中继多设备编排（每设备独立 Token、/broadcast）已单独部署到中继，不在客户端包内。"
 }
