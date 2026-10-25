@@ -1,6 +1,6 @@
 {
-  "version": "2.5.1",
-  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.5.1/MuseWin-update-2.5.1.zip",
-  "sha256": "911fe00139754d66ec22d20c8c2c78e2e246203042d2a7ab3877552af87e04fd",
-  "notes": "修复截屏真机失败：2.5.0 的截屏在真机上返回 GetDIBits 失败，改用 CreateDIBSection 直接建 DIB 段、像素指针一步到位，不再走 GetDIBits 转换。"
+  "version": "2.6.0",
+  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.6.0/MuseWin-update-2.6.0.zip",
+  "sha256": "c65a93c59ba59a0cd018ed815c783628542e48ba50eb5de937b2a7a169ffff2b",
+  "notes": "鼠标键盘控制、窗口/多显示器/缩放截图、搜索多引擎与分页缓存、应用关闭/切换、中继部署脚本支持 per-agent Token。"
 }
