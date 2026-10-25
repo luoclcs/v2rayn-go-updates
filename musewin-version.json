@@ -1,6 +1,6 @@
 {
-  "version": "2.7.0",
-  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.7.0/MuseWin-update-2.7.0.zip",
-  "sha256": "68fbb833830619457bdbaae1f876dd5302bf76b8670d5015273f0d199f038311",
-  "notes": "应用配置独立文件（apps.json）、快捷添加（/api/apps/add）、扫描识别（/api/apps/scan）。"
+  "version": "2.7.1",
+  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.7.1/MuseWin-update-2.7.1.zip",
+  "sha256": "36e5936fc5c21c186e85c87ef250d74afdbad073d74f4b7ff2b96e5dcccce64e",
+  "notes": "switch/close 标题匹配兜底、matched 字段、窗口列表 pid 字段。"
 }
