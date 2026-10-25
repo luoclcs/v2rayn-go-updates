@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.3.1/MuseWin-update-2.3.1.zip",
-  "sha256": "277ebbd4f95f2ad67cd01d50a3804ff42753dcc639bae253179282f930656419",
-  "notes": "修复应用内更新假成功问题（临时目录提前删除导致替换失败却静默重启旧版）。注意：2.2.0 / 2.3.0 自带的更新器就是坏的，本次需手动覆盖 2.3.1 一次，之后应用内更新恢复正常。"
+  "version": "2.4.0",
+  "url": "https://github.com/luoclcs/v2rayn-go-updates/releases/download/musewin-2.4.0/MuseWin-update-2.4.0.zip",
+  "sha256": "edb1a0d89137baa77db8114eb699720dd7025242197d2e96d73b344d735b82de",
+  "notes": "P2：Git 专用接口（status/log/diff/commit/pull/push）、任务管理（列表、元数据、删除已结束记录、断线重连找回）、沙箱收紧（写目录 scope、命令分组 dev/sys、服务暂停开关）。"
 }
